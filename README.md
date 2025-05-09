@@ -10,6 +10,6 @@ Este proyecto tiene como objetivo gestionar productos y sus cantidades dentro de
 - SQL estándar (manipulacion de la base de datos)
 
 ## 📁 Estructura del proyecto
-/SQL  →  scripts SQL para crear y poblar la base de datos.
-/README.md  →  descripción del proyecto.
-main.py  →  lógica principal en Python.
+- /SQL  →  scripts SQL para crear y poblar la base de datos.
+- /README.md  →  descripción del proyecto.
+- main.py  →  lógica principal en Python.
